@@ -157,3 +157,103 @@ An interactive prototype where users can click through a checkout flow.
 # The Type of Wireframe Displayed
 
 The wireframe didplayed on the external sheet is a High Fidelity Wireframe
+
+# Discussing Popular Wireframing Tools
+
+Wireframing tools help designers create low-fidelity and high-fidelity blueprints for websites and apps. Below is a look at some popular wireframing tools, followed by why Figma is a top choice for modern designers.
+
+# Popular Wireframing Tools
+
+1. Balsamiq
+
+- Best for: Quick, low-fidelity wireframing.
+
+- Features: Sketch-style UI, drag-and-drop elements, minimal learning curve.
+
+- Limitations: Not ideal for high-fidelity designs or collaboration.
+
+2. Adobe XD
+
+- Best for: UI/UX designers in the Adobe ecosystem.
+
+- Features: Vector-based design, prototyping, voice interactions.
+
+- Limitations: Requires a subscription; weaker collaboration than Figma.
+
+3. Sketch
+
+- Best for: Mac-based designers.
+
+- Features: Symbols for reusable components, strong plugin ecosystem.
+
+- Limitations: No native Windows support; no real-time collaboration.
+
+4. Axure RP
+
+- Best for: Complex, interactive prototypes.
+
+- Features: Advanced logic, dynamic content, documentation tools.
+
+- Limitations: Steeper learning curve; overkill for simple wireframes.
+
+5. Figma (Recommended)
+
+- Best for: Teams needing collaboration, flexibility, and scalability.
+
+- Why it stands out: Cloud-based, cross-platform, and free for basic use.
+
+# Why Figma is the Best Choice for Wireframing
+
+1. Real-Time Collaboration
+
+- Multiple designers can work on the same file simultaneously (like Google Docs).
+
+- Great for remote teams and stakeholder feedback.
+
+2. Cross-Platform & Cloud-Based
+
+- Works on Windows, Mac, and Linux via browser or desktop app.
+
+- No need to save files locally—everything updates in the cloud.
+
+3. Built for Both Low-Fi & Hi-Fi Wireframing
+
+- Low-fi: Use simple shapes, placeholder text, and grids.
+
+- Hi-fi: Add colors, typography, and interactive components.
+
+4. Component-Based Design
+
+- Create reusable UI elements (buttons, nav bars) for consistency.
+
+- Updates to a component apply everywhere it’s used.
+
+5. Prototyping & Interactive Wireframes
+
+- Turn static wireframes into clickable demos without coding.
+
+- Test user flows early in the design process.
+
+6. Free Plan Available
+
+- Individuals and small teams can use Figma for free with unlimited projects.
+
+- Paid plans add version history, team libraries, and advanced permissions.
+
+7. Integrations & Plugins
+
+- Connects with Slack, Jira, Zeplin, and more.
+
+- Plugin ecosystem for icons, UI kits, and automation.
+
+# Example: Wireframing in Figma
+
+- Start with frames (e.g., mobile, desktop, or tablet layouts).
+
+- Drag-and-drop shapes for buttons, images, and text blocks.
+
+- Use auto-layout for responsive spacing.
+
+- Turn wireframes into prototypes with clickable links.
+
+- Share with stakeholders via a live link for feedback.
