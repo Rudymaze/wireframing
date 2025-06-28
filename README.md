@@ -153,3 +153,7 @@ A basic digital wireframe with gray boxes representing buttons and placeholder t
 A digital wireframe with actual text, proper spacing, and styled buttons.
 
 An interactive prototype where users can click through a checkout flow.
+
+# The Type of Wireframe Displayed
+
+The wireframe didplayed on the external sheet is a High Fidelity Wireframe
